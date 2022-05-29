@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Social Network App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="randomchatting">Random Chatting!</string>
+    <string name="questionmark">Quention mark!</string>
+</resources>
