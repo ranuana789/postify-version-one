@@ -1,5 +1,5 @@
 # postify-version-one
 
-view my social media app 
+View my implementation of a social media app like Instagram
 
 Android app with Firebase 
